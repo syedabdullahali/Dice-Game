@@ -12,6 +12,7 @@ A simple and interactive **Dice Game** built using **HTML**, **CSS**, and **Java
 
 ### 📜 Game Rules:
 
+
 1. Each player takes turns rolling the dice.
 2. The rolled number gets added to the player's total score.
 3. The first player to reach the **winning number** is declared the winner.
